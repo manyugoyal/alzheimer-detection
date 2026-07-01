@@ -1,0 +1,9 @@
+torch>=2.0
+transformers>=4.35
+librosa>=0.10
+opensmile
+pydub
+scikit-learn
+numpy
+pandas
+tqdm
