@@ -1,0 +1,15 @@
+# Dataset
+*.zip
+
+# TensorBoard logs
+runs/
+events.out.tfevents.*
+
+
+# Audio
+*.mp3
+*.wav
+
+# Python cache
+__pycache__/
+
